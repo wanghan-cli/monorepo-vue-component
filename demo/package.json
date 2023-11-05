@@ -1,0 +1,16 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "keywords": [],
+  "author": "wanghangit",
+  "license": "ISC",
+  "dependencies": {
+    "@template/ui": "workspace:^",
+    "vue": "^3.3.7"
+  }
+}
